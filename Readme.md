@@ -18,9 +18,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`256131` | Arnob Chowdhury  | Feature A, B etc    | X No     | X No   |X No   |X No     
+SF Id. |          Name          |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|------------------------|----------------|----------------|---------------|-------------|--------------
+`265039` | Lanka Maneesh Kumar  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
 
 ## Challenges Faced and How Was It Overcome
